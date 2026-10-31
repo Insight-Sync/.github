@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img width="964" height="623" alt="Captura de tela 2026-08-13 163319" src="https://github.com/user-attachments/assets/638f127c-b6f2-4f9d-bfca-1f08d5255200" alt="Logo InsightSync" />
+  <img src="Captura%20de%20tela%202026-10-31%20200659.png" alt="Logo InsightSync" width="600" />
   <br>
   InsightSync
 </h1>
-
 <p align="center">
   <strong>Sincronizando ideias. Desenvolvendo o futuro.</strong>
 </p>
