@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" alt="Logo InsightSync" width="600" />
+  <img src="https://raw.githubusercontent.com/Insight-Sync/.github/main/logo.png" alt="Logo InsightSync" width="600" />
   <br>
   InsightSync
 </h1>
