@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Captura%20de%20tela%202026-10-31%20200659.png" alt="Logo InsightSync" width="600" />
+  <img src="logo.png" alt="Logo InsightSync" width="600" />
   <br>
   InsightSync
 </h1>
